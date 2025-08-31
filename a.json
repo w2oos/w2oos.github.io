@@ -5,8 +5,8 @@
 	{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-	{"key": "量子资源","name": "🍁量子资源┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片", "战争片", "恐怖片", "喜剧片", "爱情片", "科幻片", "剧情片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "港台动漫"]	},
-	{"key":"暴风资源", "name":"🪨暴风","api":"https://bfzyapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["连续剧","动漫片","综艺片","短剧大全","电影片"]}
+	{"key": "量子资源","name": "🍁量子资源┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1}
+
 ],
 "parses":[
 	{"name":"暴风解析","type":1,"url":"https://vip.vipuuvip.com/?url="},
