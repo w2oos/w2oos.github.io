@@ -8,8 +8,7 @@
 	{"key": "量子资源","name": "🍁量子资源┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-	{"key":"Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-	{"key":"aa","name":"兰贞太坏了！！！","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
+	{"key":"Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}
 
 ],
 "parses":[
