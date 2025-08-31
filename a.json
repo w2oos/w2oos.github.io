@@ -9,8 +9,29 @@
 	{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}
 ],
 "parse":[
+	  {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
 	{
 		"name":"解析",
+		"type":1,
 		"url":"https://8.bf8bf.com/video/liulidebaoshi/第01集/index.m3u8"
 	}
 ]
