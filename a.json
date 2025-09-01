@@ -8,6 +8,8 @@
 	{"key": "360","name": "360资源┃点播","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "魔都","name": "🀄魔都┃点播","api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "茅台","name": "🍾茅台┃点播","api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key": "优质","name": "优质","api": "https://api.yzzy-api.com/inc/api_mac10_all.php","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+	
 	{"key": "量子","name": "🍁量子┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -19,6 +21,8 @@
 	{"name":"茅台","type":1,"url":"https://mtjiexi.cc:966/?url="},
 	{"name":"暴风解析","type":1,"url":"https://vip.vipuuvip.com/?url="},
 	{"name":"魔都资源网","type":1,"url":"https://jiexi.moduzyjx.com/?url="},
+	{"name":"优质","type":1,"url":"https://vip.zykbf.com/?url="},
+
 	{"name":"聚合1","type":3,"url":"Demo"},
 	{"name":"聚合0","type":3,"url":"Web"},
 	{"name":"M3u8TV","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
