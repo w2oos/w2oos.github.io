@@ -7,7 +7,7 @@
 	{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key": "360","name": "360资源┃点播","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
-	{"key": "魔爪","name": "魔爪┃秒播","api": "https://mozhuazy.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影", "连续剧", "动漫", "综艺", "爱情片", "短剧 "]},
+	{"key": "魔爪","name": "魔爪┃秒播","api": "https://mozhuazy.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 	
 	{"key": "茅台","name": "🍾茅台┃点播","api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
