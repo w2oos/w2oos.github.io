@@ -47,7 +47,7 @@
 "logo":"https://w2oos.github.io/wz.png",
 "lives":[
 
-{"name":"188766（卡顿请换源）","type":0,"url":"https://188766.xyz/itv","playerType":2}
+{"name":"188766（卡顿请换源）","type":0,"url":"https://188766.xyz/itv","playerType":2},
 
 {"name":"V4-mursor（卡顿请换源）","type":0,"url":"https://sub.ottiptv.cc/iptv.m3u","playerType":2,"epg":"https://live.fanmingming.cn/e.xml","logo":"https://11.112114.xyz/logo/{name}.png","ua":"okHttp/Mod-1.2.0"},
 {"name":"V6-范明明（需开启V6网络）","type":0,"url":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u","playerType":2,"logo":"https://11.112114.xyz/logo/{name}.png"},
