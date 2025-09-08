@@ -8,6 +8,7 @@
 	{"key": "360","name": "360资源┃点播","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "爱奇艺","name": "爱奇艺资源","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "魔爪","name": "魔爪┃秒播","api": "https://mozhuazy.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "猫眼","name": "猫眼","api": https://api.maoyanapi.top/api.php/provide/vod/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "茅台","name": "🍾茅台┃点播","api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "优质","name": "优质","api": "https://api.yzzy-api.com/inc/api_mac10.php","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "量子","name": "🍁量子┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
