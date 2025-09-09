@@ -11,6 +11,7 @@
 	{"key": "茅台","name": "🍾茅台┃点播","api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "优质","name": "优质","api": "https://api.yzzy-api.com/inc/api_mac10.php","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "量子","name": "🍁量子┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key": "豆瓣","name": "豆瓣","api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/json/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}
@@ -24,6 +25,7 @@
 	{"name":"优质","type":1,"url":"https://vip.zykbf.com/?url="},
 	{"name":"魔爪","type":1,"url":"https://mzm3u8jx.com/aliplayer.html?url="},
 	{"name":"爱奇艺","type":1,"url":"https://www.iqiyizyjx.com/?url="},
+	{"name":"豆瓣","type":1,"url":"https://dbzy8.com:699/?url="},
 	{"name":"聚合1","type":3,"url":"Demo"},
 	{"name":"聚合0","type":3,"url":"Web"},
 	{"name":"M3u8TV","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
