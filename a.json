@@ -6,7 +6,7 @@
 	{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	{"key": "360","name": "360资源┃点播","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-	{"key": "如意","name": "如意","api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key": "如意","name": "如意","api": "https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/ ","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "爱奇艺","name": "爱奇艺资源","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "魔爪","name": "魔爪┃秒播","api": "https://mozhuazy.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "猫眼","name": "猫眼","api": "https://api.maoyanapi.top/api.php/provide/vod/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
