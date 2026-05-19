@@ -6,7 +6,6 @@
 	{"key": "如意","name": "如意","api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "爱奇艺","name": "爱奇艺资源","api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key": "猫眼","name": "猫眼","api": "https://api.maoyanapi.top/api.php/provide/vod/at/json","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-	{"key": "茅台","name": "🍾茅台┃点播","api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "优质","name": "优质","api": "https://api.yzzy-api.com/inc/api_mac10.php","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "量子","name": "🍁量子┃秒播","api": "http://cj.lziapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "豆瓣","name": "豆瓣","api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/json/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -21,7 +20,6 @@
 ],
 "parses":[
 	{"name":"360","type":1,"url":" https://www.360jiexi.com/player/?url=  "},
-	{"name":"茅台","type":1,"url":"https://mtjiexi.cc:966/?url="},
 	{"name":"暴风解析","type":1,"url":"https://vip.vipuuvip.com/?url="},
 	{"name":"魔都资源网","type":1,"url":"https://jiexi.modujx01.com/?url="},
 	{"name":"如意","type":1,"url":"https://ryplayer.com?url="},
