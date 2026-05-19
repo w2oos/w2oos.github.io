@@ -12,7 +12,7 @@
 	{"key": "豆瓣","name": "豆瓣","api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/json/","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "魔都","name": "魔都","api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "ikun","name": "ikun","api": "https://ikunzyapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "ikun","name": "ikun","api": "https://ikunzyapi.com/api.php/provide/vod","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1}
 	
 
 ],
@@ -36,7 +36,7 @@
 	{"name":"XY","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
 	{"name":"XY","type":1,"url":"https://jx.xmflv.com/?url="},
 	{"name":"XY","type":1,"url":"https://yparse.ik9.cc/index.php?url="},
-	{"name":"XY","type":1,"url":"http://82.156.40.118:1234/jx/?url="},
+	{"name":"XY","type":1,"url":"http://82.156.40.118:1234/jx/?url="}
 	
 ],
 
