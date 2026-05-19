@@ -52,6 +52,7 @@
 
 ],
 "parses":[
+{"name":"ikun","type":1,"url":"https://www.ikdmjx.com/?url="},
 	{"name":"360","type":1,"url":" https://www.360jiexi.com/player/?url=  "},
 	{"name":"暴风解析","type":1,"url":"https://vip.vipuuvip.com/?url="},
 	{"name":"魔都资源网","type":1,"url":"https://jiexi.modujx01.com/?url="},
@@ -61,7 +62,6 @@
 	{"name":"豆瓣","type":1,"url":"https://dbzy8.com:699/?url="},
 	{"name":"聚合1","type":3,"url":"Demo"},
 	{"name":"聚合0","type":3,"url":"Web"},
-{"name":"ikun","type":1,"url":"https://www.ikdmjx.com/?url="},
 	{"name":"M3u8TV","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
 	{"name":"CK","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
 	{"name":"冰豆","type":1,"url":"https://bd.jx.cn/?url="},
